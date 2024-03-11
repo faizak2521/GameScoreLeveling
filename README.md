@@ -1,4 +1,3 @@
-# GameScoreLeveling
 /*
 This program prints levels in a game along with the count of how many players
 are at each level.
@@ -7,7 +6,7 @@ are at each level.
 #include <stdio.h>
 #define SIZE 6 // Defines the size of the array
 
-// Prototypes for functions
+// Functions
 int pointUpdater(int healthPoints, int numberPlayers[]); // Declares a function prototype for pointUpdater
 int arrayContent(int numberPlayers[]); // Declares a function prototype for arrayContent
 
