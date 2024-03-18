@@ -1,3 +1,4 @@
+```
 /*
 This program prints levels in a game along with the count of how many players
 are at each level.
@@ -60,3 +61,5 @@ int arrayContent(int numberPlayers[]) {
     }
     return 0;
 }
+
+```
